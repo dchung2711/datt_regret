@@ -26,7 +26,7 @@ const AdminSidebar = ({ collapsed, setCollapsed }: Props) => {
       <div className={`p-4 transition-all ${collapsed ? 'px-2' : 'px-6'}`}>
         <div className="mb-6">
           {!collapsed && (
-            <img src="/img/logo.png" alt="Logo" className="mx-auto" />
+            <img src="/img/Regret_logo.png" alt="Logo" className="mx-10 my-0 h-14" />
           )}
         </div>
 

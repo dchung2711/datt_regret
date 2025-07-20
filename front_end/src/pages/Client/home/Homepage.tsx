@@ -18,7 +18,7 @@ const Homepage = () => {
             <div className="md:w-1/2 mb-8 md:mb-0 ml-12">
               <h2 className="text-3xl text-white font-bold mb-4">KHÁM PHÁ THIÊN ĐƯỜNG NƯỚC HOA!</h2>
               <p className="text-white mb-6">
-                Khám phá bộ sưu tập nước hoa cao cấp, đa dạng hương thơm từ Sevend – nơi tôn vinh cá tính, cảm xúc và gu thẩm mỹ riêng của bạn qua từng tầng hương...
+                Khám phá bộ sưu tập nước hoa cao cấp, đa dạng hương thơm từ Regret – nơi tôn vinh cá tính, cảm xúc và gu thẩm mỹ riêng của bạn qua từng tầng hương...
               </p>
               <Link
                 to="/products"

@@ -79,7 +79,7 @@ const ClientHeader = () => {
     <header className="w-full h-[60px] bg-[#fdfdfd] shadow-md">
       <div className="max-w-[1280px] mx-auto px-6 h-full flex items-center justify-between">
         <Link to="/">
-          <img src="/img/logo.png" alt="Logo" className="h-6 object-contain" />
+          <img src="/img/Regret_logo.png" alt="Logo" className="h-14 object-contain" />
         </Link>
 
         <nav className="flex items-center space-x-10 text-sm font-bold uppercase">

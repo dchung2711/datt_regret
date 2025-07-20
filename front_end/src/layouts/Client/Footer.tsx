@@ -8,7 +8,7 @@ const ClientFooter = () => {
           Nhận thông tin của chúng tôi
         </h2>
         <p className="text-sm uppercase md:text-sm mb-6">
-          Đăng ký bản tin để nhận những ưu đãi đặc biệt và tin tức độc quyền về các sản phẩm của SEVEND
+          Đăng ký bản tin để nhận những ưu đãi đặc biệt và tin tức độc quyền về các sản phẩm của REGRET
         </p>
         <div className="max-w-xl mx-auto flex flex-col sm:flex-row items-center justify-center">
           <input type="email" placeholder="Nhập email của bạn" className="px-4 py-2 w-full sm:w-2/3 rounded-l-full text-sm text-black outline-none" />
@@ -20,7 +20,7 @@ const ClientFooter = () => {
         <div className="max-w-7xl mx-auto grid grid-cols-1 md:grid-cols-4 gap-14 text-sm">
           <div>
             <img src="/img/logo.png" alt="Logo" className="w-28 mb-4" />
-            <p className="mb-2"><i className="fas fa-envelope mr-2"></i>support@sevendperfume.com</p>
+            <p className="mb-2"><i className="fas fa-envelope mr-2"></i>support@regretperfume.com</p>
             <p className="mb-2"><i className="fas fa-phone mr-2"></i>0897 777 007</p>
             <p className="mb-2"><i className="fas fa-map-marker-alt mr-2"></i>Tầng 5, Toà nhà Lotus Building<br />Số 2 Duy Tân, DVH, Cầu Giấy, Hà Nội</p>
             <div className="flex space-x-4 mt-2 text-lg text-black">
@@ -44,7 +44,7 @@ const ClientFooter = () => {
           </div>
 
           <div className="ml-28">
-            <h3 className="font-bold text-base mb-3">VỀ SEVEND</h3>
+            <h3 className="font-bold text-base mb-3">VỀ REGRET</h3>
             <ul className="space-y-2">
               <li><Link to="#">Góc thương hiệu</Link></li>
               <li><Link to="#">Cam kết chất lượng</Link></li>
@@ -68,7 +68,7 @@ const ClientFooter = () => {
 
       <div className="bg-[#696faa] border-t border-white text-sm px-6 py-4">
         <div className="max-w-7xl mx-auto flex flex-col sm:flex-row justify-between items-center">
-          <p className="mb-2 sm:mb-0 text-white">Copyright © 2025 by SEVEND</p>
+          <p className="mb-2 sm:mb-0 text-white">Copyright © 2025 by REGRET</p>
           <div className="flex space-x-3">
             <img src="/img/mc.jpg" className="h-5 object-contain bg-white shadow" />
             <img src="/img/vs.jpg" className="h-5 object-contain bg-white shadow" />
