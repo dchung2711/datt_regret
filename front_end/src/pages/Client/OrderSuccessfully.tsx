@@ -8,8 +8,8 @@ const OrderSuccessfully = () => {
         <h2 className="text-3xl font-semibold text-gray-900 mb-2">
           Đơn hàng đã được đặt thành công!
         </h2>
-        <p className="text-gray-500 text-xl text-center max-w-md">
-          Đang chờ xử lý...
+        <p className="text-gray-500 text-base text-center max-w-md mb-4">
+          Cảm ơn bạn đã mua hàng. <br /> Chúng tôi sẽ xử lý đơn hàng của bạn sớm nhất.
         </p>
         <div className="flex justify-center gap-2 mt-10 flex-wrap">
           <Link
